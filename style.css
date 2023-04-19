@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: #cfcab3;
+}
+
+body{
+    color: black;
+    background-color: rgb(211, 201, 186);
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+/* *{
+    border: 2px solid;
+} */
+
+.header{
+    background-color: #cfcab3;
+    display: flex;
+    justify-content: space-between;
+    margin: 35px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body {
+    background-color: #889a8f;
+}
